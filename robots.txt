@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://how-to-lock-and-secure-files-on-iphone-complete-guide.vercel.app/sitemap.xml
